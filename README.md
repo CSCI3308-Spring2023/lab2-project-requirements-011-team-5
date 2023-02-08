@@ -1,6 +1,6 @@
 # CSCI 3308 Lab 2: Team Formation
 
-Recitation-011-Team-5
+Recitation-016-Team-08
 1) Will Anderson - Wian9699
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
